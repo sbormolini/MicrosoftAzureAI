@@ -1,0 +1,6 @@
+bin
+obj
+*.ini
+*.cache
+*.log
+*.tmp
